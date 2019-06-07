@@ -6,6 +6,8 @@ The FPGA board that is used in this project is Altera DE1-SoC rev. D. The ADC mo
 
 The video demonstrating how our application works can be found here : https://youtu.be/aX6UkGxf2ac
 
+The .qar file is the archived project under Quartus. The .sof file is the binary used to flash the FPGA board with the code of the driver and the application.
+
 # Members of the team
 * Jovicic Nikola
 * Tedeschi Quentin
